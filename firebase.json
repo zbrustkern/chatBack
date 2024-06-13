@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "build",
+    "site": "chatback-3db3f",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
